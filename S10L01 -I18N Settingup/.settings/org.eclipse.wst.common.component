@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="S10L01 -I18N Settingup">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="S10L01_-I18N_Settingup"/>
+        <property name="java-output-path" value="/S10L01 -I18N Settingup/build/classes"/>
+    </wb-module>
+</project-modules>
